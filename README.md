@@ -1,3 +1,4 @@
+![alcohol-delivery-script-sangvish ](https://github.com/sangvishtechnologies/alcohol-delivery-script/assets/161323540/c5af8cdf-357c-4a11-804c-15d620713fbb)
 
 
 <h1 align="center"> Must-Have Features of Your Alcohol Delivery Script </h1> 
@@ -54,7 +55,7 @@ Build trust and transparency by allowing users to leave reviews and ratings for 
 
 Entice new customers and reward loyal ones! Offer promotions, discounts, and loyalty programs to keep users engaged and coming back for more.
 
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“alcoholdeliveryscript.png" src="https://github.com/sangvishtechnologies/vrbo-clone/blob/main/images/vrbo-clone-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“alcoholdeliveryscript.png" src="https://github.com/sangvishtechnologies/alcohol-delivery-script/blob/main/images/alcohol-delivery-.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
 
 ### Conclusion
 By incorporating these features into your[ alcohol delivery app development,](https://sangvish.com/alcohol-delivery-script/) you'll be well-equipped to compete in this thriving market. Remember, a user-friendly platform, robust functionality, and a focus on responsible service are the cornerstones of a successful alcohol delivery business. 
